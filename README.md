@@ -1,8 +1,7 @@
 # ♠️ Poker Project
 
 
-
-![POCKER](https://github.com/Dreamerol/Dreamerol/blob/6a3bc3cf9d4d9ddecf05e2a45a86d2ce5466b6da/ZPOCKER.jpg)
+<img src="https://github.com/Dreamerol/Dreamerol/blob/6a3bc3cf9d4d9ddecf05e2a45a86d2ce5466b6da/ZPOCKER.jpg" alt="POCKER" style="width:100%; height:auto;">
 
 ---
 
