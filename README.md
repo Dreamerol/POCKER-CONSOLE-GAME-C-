@@ -1,6 +1,6 @@
 <div align="center">
 
-# ♠️ POCKER CONSOLE GAME - C++
+# ♠️ 𝗣𝗢𝗖𝗞𝗘𝗥 𝗖𝗢𝗡𝗦𝗢𝗟𝗘 𝗚𝗔𝗠𝗘 – 𝗖++ ♠️
 
 <div align="center">
 
