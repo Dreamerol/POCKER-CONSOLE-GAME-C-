@@ -7,7 +7,7 @@
 </div>
 
 
-<img src="https://github.com/Dreamerol/Dreamerol/blob/d8d9e0e47f16eba82d612bdb2e901cc207058105/ZZZZZPOCKER777.png" alt="POCKER" style="width:100%; height:auto; margin-bottom: 20px;">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/d8d9e0e47f16eba82d612bdb2e901cc207058105/ZZZZZPOCKER777.png" alt="POCKER" style="width:100%; height:auto; margin-bottom: 20px;">
 
 </div>
 
